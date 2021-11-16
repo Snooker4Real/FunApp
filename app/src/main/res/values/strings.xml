@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FunApp</string>
+
+    <string name="welcome_msg">Bienvenue sur mon application du turfu! Clique sur ma tête 👇</string>
+
+    <string name="point_msg">Points : 0</string>
+</resources>
